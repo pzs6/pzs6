@@ -10,7 +10,7 @@
 
 ⚛️Data Scientist.<br>
 🛸BSc in Physics from University of Guadalajara, México.<br>
-🌊Currently researching surface currents in the Gulf on California through data.<br>
+🌊Currently researching surface currents in the Gulf on California through data and ML models.<br>
 📫If you want to reach me e-mail me to: *m.fernanda.ct6@gmail.com*
 
 ### 🔣Key Languages:
