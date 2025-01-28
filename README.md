@@ -1,10 +1,11 @@
+<!--
 ## 🍓Sobre mí:
 
 ⚛️Científica de Datos.<br>
 🛸Licenciada en Física egresada de la Universidad de Guadalajara, México.<br>
 🌊Actualmente investigando corrientes superficiales en el Golfo de California através de datos.<br>
 📫Para contactarme manda un mail a: *m.fernanda.ct6@gmail.com*
-
+-->
 ## 🍓About me:
 
 ⚛️Data Scientist.<br>
