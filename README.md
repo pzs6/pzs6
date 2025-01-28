@@ -13,6 +13,19 @@
 🌊Currently researching surface currents in the Gulf on California through data.<br>
 📫If you want to reach me e-mail me to: *m.fernanda.ct6@gmail.com*
 
+### 🔣Key Languages:
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mySQL" width="40" height="40"/>
+</p>
+
+
 
 <!--
 **pzs6/pzs6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
