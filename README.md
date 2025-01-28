@@ -1,15 +1,15 @@
-## Hola, soy Fernanda!
+## 🍓Sobre mí:
 
-⚛️Científica de Datos.
-🛸Licenciada en Física egresada de la Universidad de Guadalajara, México.
-🌊Currently researching surface currents in the Gulf on California through data.
+⚛️Científica de Datos.<br>
+🛸Licenciada en Física egresada de la Universidad de Guadalajara, México.<br>
+🌊Actualmente investigando corrientes superficiales en el Golfo de California através de datos.<br>
 📫Para contactarme manda un mail a: *m.fernanda.ct6@gmail.com*
---------------------------------------------------------------------------------
-## Hi, I'm Fernanda!
 
-⚛️Data Scientist.
-🛸BSc in Physics from University of Guadalajara, México.
-🌊Currently researching surface currents in the Gulf on California through data.
+## 🍓About me:
+
+⚛️Data Scientist.<br>
+🛸BSc in Physics from University of Guadalajara, México.<br>
+🌊Currently researching surface currents in the Gulf on California through data.<br>
 📫If you want to reach me e-mail me to: *m.fernanda.ct6@gmail.com*
 
 
