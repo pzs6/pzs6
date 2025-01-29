@@ -13,7 +13,7 @@
 🌊Currently researching surface currents in the Gulf on California through data and ML models.<br>
 📫If you want to reach me e-mail me to: *m.fernanda.ct6@gmail.com*
 
-### 🔣Key Languages:
+### 🔣Main Languages:
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
