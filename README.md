@@ -25,6 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mySQL" width="40" height="40"/>
 </p>
 
+### 🔮My GitHub is my Portfolio
+🧿 Feel free to check it out!
 
 
 <!--
